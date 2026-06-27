@@ -8,7 +8,7 @@ import java.sql.SQLException;
  * Clase que gestiona la conexion a la base de datos MySQL mediante JDBC.
  * Centraliza los parametros de conexion para todo el proyecto.
  *
- * @author Angela Carvajal Ortiz - Dario Bustamante
+ * @author Angela Carvajal Ortiz 
  * @version 1.0
  * @since 2026
  * Ficha: 3186706 - SENA GA7-220501096-AA2-EV01
