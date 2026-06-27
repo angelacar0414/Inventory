@@ -1,0 +1,29 @@
+=========================================================
+  ENLACE AL REPOSITORIO DE GITHUB
+  Proyecto: Sistema Inventory - GA7-220501096-AA2-EV01
+  Autores: Angela Carvajal Ortiz - Dario Bustamante
+  Ficha: 3186706
+=========================================================
+
+PASOS PARA SUBIR A GITHUB Y PEGAR EL ENLACE AQUI:
+
+1. Ve a https://github.com
+2. Inicia sesion con tu cuenta
+3. Clic en "New repository"
+4. Nombre: Inventory
+5. Descripcion: Sistema de Gestion de Inventarios SENA GA7-220501096-AA2-EV01
+6. Visibilidad: Public
+7. Clic en "Create repository"
+
+8. En NetBeans:
+   - Clic derecho en el proyecto Inventory
+   - Git -> Initialize Repository
+   - Git -> Commit (escribe: "primer commit - proyecto inventory SENA")
+   - Git -> Remote -> Push
+   - Pega la URL de tu repositorio de GitHub
+
+9. REEMPLAZA LA LINEA DE ABAJO CON TU ENLACE REAL:
+
+REPOSITORIO: https://github.com/TU_USUARIO/Inventory
+
+=========================================================
