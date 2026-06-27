@@ -14,14 +14,14 @@ import java.util.List;
  * Contiene los metodos CRUD: Insertar, Consultar, Actualizar y Eliminar.
  * Se conecta a MySQL mediante JDBC usando la clase ConexionDB.
  *
- * @author Angela Carvajal Ortiz - Dario Bustamante
+ * @author Angela Carvajal Ortiz 
  * @version 1.0
  * @since 2026
  * Ficha: 3186706 - SENA GA7-220501096-AA2-EV01
  */
 public class ProductoDAO {
 
-    // ==================== CREATE - INSERTAR ====================
+    // = CREATE - INSERTAR =
 
     /**
      * Inserta un nuevo producto en la base de datos.
@@ -50,7 +50,7 @@ public class ProductoDAO {
         }
     }
 
-    // ==================== READ - CONSULTAR TODOS ====================
+    // = READ - CONSULTAR TODOS =
 
     /**
      * Consulta todos los productos registrados en la base de datos.
@@ -84,7 +84,7 @@ public class ProductoDAO {
         return lista;
     }
 
-    // ==================== READ - CONSULTAR POR ID ====================
+    // = READ - CONSULTAR POR ID =
 
     /**
      * Consulta un producto especifico por su ID.
@@ -118,7 +118,7 @@ public class ProductoDAO {
         return null;
     }
 
-    // ==================== UPDATE - ACTUALIZAR ====================
+    // = UPDATE - ACTUALIZAR =
 
     /**
      * Actualiza los datos de un producto existente en la base de datos.
@@ -148,7 +148,7 @@ public class ProductoDAO {
         }
     }
 
-    // ==================== DELETE - ELIMINAR ====================
+    // = DELETE - ELIMINAR =
 
     /**
      * Elimina un producto de la base de datos por su ID.
