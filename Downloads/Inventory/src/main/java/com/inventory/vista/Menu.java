@@ -10,7 +10,7 @@ import java.util.Scanner;
  * Contiene el menu de consola para interactuar con el CRUD de productos.
  * Esta es la clase que se ejecuta primero (contiene el metodo main).
  *
- * @author Angela Carvajal Ortiz - Dario Bustamante
+ * @author Angela Carvajal Ortiz
  * @version 1.0
  * @since 2026
  * Ficha: 3186706 - SENA GA7-220501096-AA2-EV01
