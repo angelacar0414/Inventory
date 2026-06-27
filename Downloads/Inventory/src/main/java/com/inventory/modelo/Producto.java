@@ -4,7 +4,7 @@ package com.inventory.modelo;
  * Clase modelo que representa un Producto del inventario.
  * Corresponde a la tabla "productos" en la base de datos MySQL.
  *
- * @author Angela Carvajal Ortiz - Dario Bustamante
+ * @author Angela Carvajal Ortiz 
  * @version 1.0
  * @since 2026
  * Ficha: 3186706 - SENA GA7-220501096-AA2-EV01
